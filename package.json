@@ -1,0 +1,13 @@
+{
+  "name": "banelco-mock-server",
+  "version": "0.1.3",
+  "description": "Mock server de Banelco",
+  "author": "Joan Almeida",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "express-mock-server": "^2.1.1"
+  }
+}
