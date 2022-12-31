@@ -8,6 +8,6 @@
     "start": "node server.js"
   },
   "devDependencies": {
-    "express-mock-server": "^2.1.1"
+    "express-mock-server": "^3.4.1"
   }
 }
